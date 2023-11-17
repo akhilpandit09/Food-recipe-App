@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# Food Recipe Output
+
+
+![recipe](https://github.com/akhilpandit09/Food-recipe-App/assets/64522940/8dcaeae4-cc43-43c3-ac44-0736dbb1cd3f)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
